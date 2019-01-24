@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+ { "@context": "http://schema.org",
+ "@type": "Organization",
+ "name": "Geringo",
+ "legalName" : "Caterpillar Inc",
+ "url": "https://geronigo.com/",
+ "logo": "",
+ "foundingDate": "",
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "",
+ "addressLocality": "",
+ "addressRegion": "",
+ "postalCode": "",
+ "addressCountry": "UK"
+ },
+ "sameAs": [ 
+ "https://en-gb.facebook.com/",
+ "https://twitter.com/",
+ "https://www.instagram.com/c/",
+ "https://www.youtube.com/channel/"
+ ]}
+</script>
