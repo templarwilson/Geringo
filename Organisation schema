@@ -2,7 +2,7 @@
  { "@context": "http://schema.org",
  "@type": "Organization",
  "name": "Geringo",
- "legalName" : "Caterpillar Inc",
+ "legalName" : "",
  "url": "https://geronigo.com/",
  "logo": "",
  "foundingDate": "",
